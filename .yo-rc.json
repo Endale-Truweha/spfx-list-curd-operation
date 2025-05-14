@@ -1,0 +1,18 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "nodeVersion": "22.15.0",
+    "sdksVersions": {},
+    "version": "1.21.1",
+    "libraryName": "fristapp",
+    "libraryId": "655f7e44-4d8d-4ccf-b3c7-59ba366d3f29",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "fristapp",
+    "solutionShortDescription": "fristapp description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}
